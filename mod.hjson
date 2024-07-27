@@ -1,0 +1,9 @@
+name: "shadow-fog"
+displayName: "Shadow Fog"
+author: Minty
+subtitle: "Shadow Fog rising..."
+description: '(WIP) Welcome to my Mindustry mod called "Shadow Fog", with this mod comes a complete restyle of the original and a lot of new additions. It includes a playable story and a concept to use for pvp battles.'
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
